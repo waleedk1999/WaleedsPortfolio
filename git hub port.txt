@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waleed Khalid's Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+        header, section { margin-bottom: 20px; }
+        h1, h2 { color: #333; }
+        p { line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Waleed Khalid</h1>
+        <p>Tech-savvy individual with a passion for modern technology, social media, new AI tools, and PC building.</p>
+    </header>
+    <section>
+        <h2>Contact Information</h2>
+        <p>Email: waleed_124@live.com</p>
+        <p>Phone: 03352542166</p>
+        <p>Location: Karachi, Pakistan</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/waleedkhalid99?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Waleed Khalid</a></p>
+    </section>
+    <section>
+        <h2>Education</h2>
+        <p>Professional Diploma in Social Media Marketing & Management, Institute of Management, Technology and Finance (01/2024)</p>
+        <p>A-Levels, Private, Karachi (Ongoing)</p>
+        <p>Intermediate (High School), The Ideal Higher Secondary School (Completed)</p>
+    </section>
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Digital Marketing</li>
+            <li>Social Media Marketing</li>
+            <li>Content Writing</li>
+            <li>Editing</li>
+            <li>Excel</li>
+            <li>Python</li>
+            <li>SEO Tools</li>
+            <li>Communication Skills</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Languages</h2>
+        <ul>
+            <li>English: Full Professional Proficiency</li>
+            <li>Urdu: Native or Bilingual Proficiency</li>
+            <li>Arabic: Limited Working Proficiency</li>
+            <li>Japanese: Elementary Proficiency</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Work Experience</h2>
+        <p><strong>Digital Marketing, Social Media Account Management, Email Marketing</strong><br>
+        Sam's Beauty Gallery Studio Saloon (05/2023 - 12/2023)<br>
+        Managed social media pages and web design. Executed digital marketing and email marketing strategies.</p>
+        <p><strong>Marketing And Social Media Management</strong><br>
+        Qube Beauty (01/2023 - 05/2023)<br>
+        Handled all social media pages and deals.</p>
+    </section>
+    <section>
+        <h2>Projects</h2>
+        <p><strong>Sam's Beauty Gallery Studio Saloon</strong><br>
+        <a href="https://www.instagram.com/samsbeautygallerystudiosaloon?igsh=cXliOHJxdnBkOHlx&utm_source=qr">Instagram</a><br>
+        Created social media deal posts, boosted ads and images, increased client interactions, and managed client messages.</p>
+        <p><strong>Qube Beauty</strong><br>
+        <a href="https://www.instagram.com/qubebeauty?igsh=a2N0Y240eHIxYTYx">Instagram</a><br>
+        Similar responsibilities as above, with a focus on boosting posts and client engagement.</p>
+    </section>
+    <section>
+        <h2>Certificates</h2>
+        <p>The Complete Digital Marketing Course: Completed the 12 courses needed for a complete digital marketing background.</p>
+    </section>
+    <section>
+        <h2>Past Work and Experience</h2>
+        <p>Event Hosting</p>
+        <p>Handling Social Media Pages: Managed Instagram, Facebook, and LinkedIn pages, boosted posts, edited photos, created deals, and wrote captions.</p>
+        <p>Building PCs: Built PCs as a side hustle, catering to specific budgets and performance needs.</p>
+    </section>
+    <section>
+        <h2>Interests</h2>
+        <ul>
+            <li>Learning new languages</li>
+            <li>Information Technology</li>
+            <li>Editing</li>
+            <li>Freelance Work</li>
+            <li>Psychology</li>
+            <li>PC Building</li>
+            <li>Business</li>
+            <li>Social Media</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Summary</h2>
+        <p>I am willing to learn right away, adapt quickly, and excel with proper directions. I pick up new skills fast and am always eager to learn and grow in my career.</p>
+    </section>
+</body>
+</html>
